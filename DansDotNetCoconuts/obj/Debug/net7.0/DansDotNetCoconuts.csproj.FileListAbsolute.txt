@@ -29,3 +29,4 @@
 /Users/danfyfe/Development/Coconuts/danscoconuts/DotNetAngular/DansDotNetCoconuts/obj/Debug/net7.0/DansDotNetCoconuts.pdb
 /Users/danfyfe/Development/Coconuts/danscoconuts/DotNetAngular/DansDotNetCoconuts/obj/Debug/net7.0/DansDotNetCoconuts.genruntimeconfig.cache
 /Users/danfyfe/Development/Coconuts/danscoconuts/DotNetAngular/DansDotNetCoconuts/obj/Debug/net7.0/ref/DansDotNetCoconuts.dll
+/Users/danfyfe/Development/Coconuts/danscoconuts/DotNetAngular/DansDotNetCoconuts/bin/Debug/net7.0/data/dummyPosts.json
