@@ -1,0 +1,34 @@
+﻿@page
+@model MyApp.Namespace.TasksModel
+@{
+  ViewData["Title"] = "Tasks";
+}
+
+<div>
+  <h2>Tasks page</h2>
+  <hr />
+  <h3>Available Tasks</h3>
+  <p class="text-warning">Note: current tasks will not be saved after refresh!</p>
+  <div class="container">
+    <ul>
+      @foreach (var task in Model.taskList)
+      {
+
+      }
+    </ul>
+    <form class="b-full w-responsive">
+      <div class="form-group">
+        <label for="task-title">Title</label>
+        <input class="form-control mt-2" type="text" id="task-title" value="" placeholder="Task Title" />
+      </div>
+      <div class="form-group mt-2">
+        <label for="task-description">Description</label>
+        <textarea class="form-control mt-2" type="text" id="task-description" value=""
+          placeholder="Task Description"></textarea>
+      </div>
+      <button type="button" class="btn btn-primary mt-2">
+        Add Task
+      </button>
+    </form>
+  </div>
+</div>

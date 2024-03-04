@@ -1,8 +1,9 @@
-class TaskList
+
+class Tasks
 {
   private readonly List<Task> tasks;
 
-  public TaskList()
+  public Tasks()
   {
     tasks = new List<Task>();
   }
@@ -17,11 +18,15 @@ class TaskList
   {
     tasks.Remove(task);
     return tasks;
-
   }
 
   public List<Task> GetAllTasks()
   {
     return tasks;
+  }
+
+  public static implicit operator List<object>(Tasks v)
+  {
+    throw new NotImplementedException();
   }
 }
