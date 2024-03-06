@@ -1,4 +1,3 @@
-import { NgFor } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { ButtonComponent } from '../button/button.component';
 import { Task } from '../../interfaces/Task';
