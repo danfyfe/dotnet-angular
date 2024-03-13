@@ -9,7 +9,8 @@ import { NgStyle } from '@angular/common';
 })
 export class ButtonComponent {
   @Input() text: string = '';
-  @Input() color: string = 'blue';
+  @Input() color: string = 'transparent';
+  @Input() class: string = '';
   @Output() btnClick= new EventEmitter();
 
   
