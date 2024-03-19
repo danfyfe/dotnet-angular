@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iO2ZU3wk65z7L/Ksls6H3lncHp+9nicRk5ciSSqbHxasRZUfdPwZZrrSiRDFcUQPBuBvbch+JiR16mQdu0/jKg==",
+  "success": true,
+  "projectFilePath": "/Users/danfyfe/Development/Coconuts/danscoconuts/DotNetAngular/DansDotNetCoconuts/DansDotNetCoconuts.csproj",
+  "expectedPackageFiles": [
+    "/Users/danfyfe/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/danfyfe/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/danfyfe/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/danfyfe/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/danfyfe/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/danfyfe/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
