@@ -15,7 +15,6 @@ namespace MyApp.Namespace
         }
         public void OnGet()
         {
-            Tasks tasks = new();
         }
     }
 }
